@@ -6,9 +6,9 @@
     
 ### My latests projects
 🎞️[What Movie?](https://whatmovieapp.herokuapp.com) [[📁repo]](https://github.com/sara-woods/rails-find-me-a-movie) (solo)  
-😺[Catsweeper](https://saralotfi.github.io/catsweeper/) [[📁repo]](https://github.com/sara-woods/catsweeper) (solo)  
+😺[Catsweeper](https://sara-woods.github.io/catsweeper/) [[📁repo]](https://github.com/sara-woods/catsweeper) (solo)  
 📦[Packathon](https://packathon.herokuapp.com) [[📁repo]](https://github.com/thomas-kenny/veeqo) (team of 5) Winnner of Hackathon - Le Wagon 20210321  
-🏋️‍♀️[Wellsy](http://wellsy.live) [[📁repo]](https://github.com/sara-woods/wellsy) (team of 4)  
+🏋️‍♀️[Wellsy](https://wellsy.herokuapp.com) [[📁repo]](https://github.com/sara-woods/wellsy) (team of 4)  
 🚤[Floatify](https://floatifyapp.herokuapp.com) [[📁repo]](https://github.com/sara-woods/float_boat) (team of 4)  
 
 ### Languages and tools:
@@ -30,7 +30,7 @@
 ### Some other interests of mine
 ✨ Yoga
 🏂 Snowboarding
-🦆🐷🌲 Animals and nature  
+🦆🐷🌲 Animals and nature walks
 
 ### How to reach me
 📬 hellosarawoods@gmail.com <!-- or [linkedin.com/in/sara-lotfi](https://www.linkedin.com/in/sara-lotfi/) -->
