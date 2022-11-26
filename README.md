@@ -30,7 +30,7 @@
 ### Some other interests of mine
 ✨ Yoga
 🏂 Snowboarding
-🦆🐷🌲 Animals and nature walks
+🦆🐷🌲 Nature walks and animals
 
 ### How to reach me
 📬 hellosarawoods@gmail.com <!-- or [linkedin.com/in/sara-lotfi](https://www.linkedin.com/in/sara-lotfi/) -->
