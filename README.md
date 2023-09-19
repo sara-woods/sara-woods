@@ -1,5 +1,5 @@
 ## Hi, I'm Sara 👀
-**Full-Stack Developer 💻 | Illustrator ✍️**  
+**Front-End Developer 💻 | Illustrator ✍️**  
 
 ### My [Portfolio](https://sarawoodsdesign.com/) 
 
