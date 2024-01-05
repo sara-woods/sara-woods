@@ -7,7 +7,7 @@
 ### My latest projects
 🎞️[What Movie?](https://what-movie.onrender.com) [[📁repo]](https://github.com/sara-woods/rails-find-me-a-movie) (solo)  
 😺[Catsweeper](https://sara-woods.github.io/catsweeper/) [[📁repo]](https://github.com/sara-woods/catsweeper) (solo)  
-📦Packathon [[📁repo]](https://github.com/sara-woods/packathon-copy) (team of 5) Winnner of Hackathon - Le Wagon 20210321  
+📦Packathon [[📁repo]](https://github.com/sara-woods/packathon-copy) (team of 5) Winnner of Hackathon - Le Wagon 2021-03-21  
 🏋️‍♀️[Wellsy](https://wellsy.fly.dev) [[📁repo]](https://github.com/sara-woods/Wellsy-copy) (team of 4)  
 🚤[Floatify](https://floatify.fly.dev) [[📁repo]](https://github.com/sara-woods/Floatify-copy) (team of 4)  
 
