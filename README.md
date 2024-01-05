@@ -4,7 +4,7 @@
 ### My [Portfolio](https://sarawoodsdesign.com/) 
 
     
-### My latest projects
+### My latest coding projects
 🎞️[What Movie?](https://what-movie.onrender.com) [[📁repo]](https://github.com/sara-woods/rails-find-me-a-movie) (solo)  
 😺[Catsweeper](https://sara-woods.github.io/catsweeper/) [[📁repo]](https://github.com/sara-woods/catsweeper) (solo)  
 📦Packathon [[📁repo]](https://github.com/sara-woods/packathon-copy) (team of 5) Winnner of Hackathon - Le Wagon 2021-03-21  
