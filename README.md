@@ -1,5 +1,5 @@
 ## Hi, I'm Sara 👀
-**UI/UX Designer | Front-End Developer 💻 | Illustrator ✍️**  
+**UI & UX Designer | Front-End Developer 💻 | Illustrator ✍️**  
 
 ### My [Portfolio](https://sarawoodsdesign.com/) 
 
@@ -25,13 +25,8 @@
 </p>
 
 
-### Some other interests of mine
-✨ Yoga
-🏂 Snowboarding
-🦆🐷🌲 Nature walks and animals
-
 ### How to reach me
-📬 hellosarawoods@gmail.com <!-- or [linkedin.com/in/sara-lotfi](https://www.linkedin.com/in/sara-lotfi/) -->
+📬 hellosarawoods@gmail.com <!-- or [linkedin.com/in/sara-woods](https://www.linkedin.com/in/sara-woods/) -->
 
 
 <!--
