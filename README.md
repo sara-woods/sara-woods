@@ -26,7 +26,7 @@
 
 
 ### How to reach me
-📬 hellosarawoods@gmail.com <!-- or [linkedin.com/in/sara-woods](https://www.linkedin.com/in/sara-woods/) -->
+📬 sarawoodsdesign@gmail.com <!-- or [linkedin.com/in/sara-woods](https://www.linkedin.com/in/sara-woods/) -->
 
 
 <!--
