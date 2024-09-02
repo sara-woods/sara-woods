@@ -1,5 +1,5 @@
 ## Hi, I'm Sara 👀
-**UI & UX Designer | Front-End Developer 💻 | Illustrator ✍️**  
+**Designer | Illustrator | Web Developer **  
 
 ### My [Portfolio](https://sarawoodsdesign.com/) 
 
